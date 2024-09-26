@@ -1,0 +1,102 @@
+.grid {
+    background: hsl(36, 100%, 99%);
+    width: 100%;
+    height: 100vh; /* Full height of the browser */
+    display: grid;
+    gap: 1.3vw;
+    /*padding: 1vw;*/
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); /* Responsive columns */
+    grid-template-rows: auto;
+    grid-template-areas:
+      "hero hero hero hero aside5 aside5"
+      "hero hero hero hero aside2 aside2"
+      "hero hero hero hero aside2 aside2"
+      "hero hero hero hero aside2 aside2"
+      "aside3 aside3 aside4 aside4 aside2 aside2 ";
+  } /*this is how the bento boxes are spread out, first row of aside2 to be replaced by aside5. aside 5 to be replaced by extention of aside2. add two more blocks on top of aside3 and 4*/
+  
+  .item {
+    border: 2px solid #BBB393;
+    border-radius: 15px; /* More rounded corners */
+    background-color:#F3E6CC; /* To make items visible */
+    padding: 1rem; /* Add padding for spacing inside */
+    transition: transform 0.2s, box-shadow 0.2s; /* Add hover effects */
+    font-family: 'Roboto', sans-serif; /* Modern font */
+    font-size: 1rem; /* Adjust font size */
+    text-align: center; /* Center text */
+
+    display: flex; /* Enable flexbox */
+    align-items: center; /* Center items vertically */
+    gap: 1rem; /* Space between text and image */
+}
+
+.item:hover {
+  transform: translateY(-5px); /* Slight lift on hover */
+}
+  
+  .grid .item:nth-child(1) {
+    grid-area: hero;
+  }
+  
+  .grid .item:nth-child(2) {
+    grid-area: aside2;
+  }
+  
+  .grid .item:nth-child(3) {
+    grid-area: aside3;
+  }
+  
+  .grid .item:nth-child(4) {
+    grid-area: aside4;
+  }
+  
+  .grid .item:nth-child(5) {
+    grid-area: aside5;
+  }
+
+
+
+.text-container {
+  display: flex; /* Enables flexbox for this container */
+  flex: 3; /* 3 parts of the total 4 */
+  flex-direction: column; /* Arranges children in a column */
+  justify-content: center; /* Centers content vertically */
+  align-items: flex-start; /* Aligns items to the left */
+}
+
+.social-media-icons {
+  display: flex; /* Use flexbox for horizontal alignment */
+  justify-content: center; /* Center the icons if needed */
+  gap: 20px; /* Space between icons */
+  margin-top: 10px; /* Optional: space above the icons */
+}
+
+.social-media-icons img {
+  width: 30px; /* Set a width for the icons */
+  height: 30px; /* Set a height for the icons */
+}
+
+
+.cotl-follower {
+  flex: 1; /* 1 part of the total 4 */
+  width: 100%; /* Make image take full width of its container */
+  height: auto; /* Maintain aspect ratio */
+  border-radius: 15px; /* Optional: round the corners of the image */
+}
+  
+/*fonts*/
+
+/*heading*/
+  .eczar-grid {
+    font-family: "Eczar", serif; /* Ensure the font is imported */
+    font-optical-sizing: auto; /* This property is correct */
+    font-weight: 400; /* Correct font-weight: use values like 400 (normal), 700 (bold) */
+    font-style: normal;
+  }
+/*body*/
+  .gowun-batang-regular {
+    font-family: "Gowun Batang", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
