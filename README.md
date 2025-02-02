@@ -30,7 +30,6 @@ bento-portfolio/
 │   └── linkedin-brands-solid.svg              
 ```
 
----
 
 ## Features
 
@@ -48,7 +47,6 @@ The portfolio uses two Google Fonts taken from visually similiar looking fonts:
 ### 🔗 **Social Media Links**
 Social media icons are included for GitHub, Discord and LinkedIn
 
----
 
 ## How to Use
 
@@ -59,7 +57,6 @@ Social media icons are included for GitHub, Discord and LinkedIn
 2. Open `index.html` in your browser to view the portfolio
 3. Customize the content, images, and styles to fit your own portfolio
 
----
 
 ## Future Improvements
 
@@ -68,12 +65,10 @@ Here are some ideas for future enhancements:
 - Create CTA section
 - Include a dark mode toggle
 
----
 
 ## Live Demo
 
 Check out the live demo of the portfolio here: [Live Demo Link](https://muwudev.github.io/cult-of-the-lamb-portfolio/)  
 
----
 
 Contact me on discord if you want to join my cult ;3
