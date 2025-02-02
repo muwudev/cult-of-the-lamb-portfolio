@@ -1,6 +1,7 @@
 # Portfolio Inspired by *Cult of the Lamb* 🐑
 
-Welcome to my **cotl bento-style portfolio**! This project is a visually appealing and interactive portfolio inspired by the aesthetic and theme of the game [*Cult of the Lamb*](https://www.cultofthelamb.com/). Below, you'll find details about the project structure, features and how to use or customize it
+Welcome to my **cotl bento-style portfolio**! \
+This project is a visually appealing and interactive portfolio inspired by the aesthetic and theme of the game [*Cult of the Lamb*](https://www.cultofthelamb.com/). Below, you'll find details about the project structure, features and how to use or customize it
 
 ---
 
