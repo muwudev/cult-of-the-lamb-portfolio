@@ -5,7 +5,6 @@ This project is a personal portfolio inspired by my love for the aesthetics of t
 
 Made with  HTML, CSS and vanilla JS. Below, you'll find details about the project structure, features and how to use or customize it
 
----
 
 ## Table of Contents
 1. [Project Structure](#project-structure)
@@ -14,7 +13,6 @@ Made with  HTML, CSS and vanilla JS. Below, you'll find details about the projec
 4. [Future Improvements](#future-improvements)
 5. [Live Demo](#live-demo)
 
----
 
 ## Project Structure
 
