@@ -78,11 +78,4 @@ Check out the live demo of the portfolio here: [Live Demo Link](https://muwudev.
 
 ---
 
-## Credits
-- Inspired by the game *[Cult of the Lamb](https://www.cultofthelamb.com/)*
-- Fonts from [Google Fonts](https://fonts.google.com/)
-- Icons from [Font Awesome](https://fontawesome.com/)
-
----
-
 Contact me on discord if you want to join my cult ;3
