@@ -3,7 +3,7 @@
 Welcome to my **cotl bento-style portfolio**! \
 This project is a personal portfolio inspired by my love for the aesthetics of the game [*Cult of the Lamb*](https://www.cultofthelamb.com/)
 
-Made with  HTML, CSS, and vanilla JS. Below, you'll find details about the project structure, features and how to use or customize it
+Made with  HTML, CSS and vanilla JS. Below, you'll find details about the project structure, features and how to use or customize it
 
 ---
 
@@ -20,16 +20,16 @@ Made with  HTML, CSS, and vanilla JS. Below, you'll find details about the proje
 
 ```
 bento-portfolio/
-├── index.html                # Main HTML file for the portfolio
+├── index.html                # Main HTML file
 ├── cotl-style.css            # CSS file for styling the bento grid and components
-├── effects.js                # JavaScript file for interactive effects (e.g., GIF hover)
-├── images/                   # Folder containing static and animated images
-│   ├── cotl-eye.ico          # Favicon for the website
+├── effects.js                # JS file for interactivity
+├── images/                   # GIF and img src
+│   ├── cotl-eye.ico          
 │   ├── Lighthouse_Follower-animation-big.gif  # Animated GIF for hover effect
 │   ├── Lighthouse_Follower-still-big.png      # Static image for default state
-│   ├── github-brands-solid.svg                # GitHub icon
-│   ├── discord-brands-solid.svg               # Discord icon
-│   └── linkedin-brands-solid.svg              # LinkedIn icon
+│   ├── github-brands-solid.svg                
+│   ├── discord-brands-solid.svg               
+│   └── linkedin-brands-solid.svg              
 ```
 
 ---
