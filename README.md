@@ -1,8 +1,9 @@
 # Portfolio Inspired by *Cult of the Lamb* 🐑
 
 Welcome to my **cotl bento-style portfolio**! \
+This project is a personal portfolio inspired by my love for the aesthetics of the game [*Cult of the Lamb*](https://www.cultofthelamb.com/)
 
-This project is a personal portfolio inspired by my love for the aesthetics of the game [*Cult of the Lamb*](https://www.cultofthelamb.com/).\ Made with  HTML, CSS, and vanilla JS. Below, you'll find details about the project structure, features and how to use or customize it
+Made with  HTML, CSS, and vanilla JS. Below, you'll find details about the project structure, features and how to use or customize it
 
 ---
 
